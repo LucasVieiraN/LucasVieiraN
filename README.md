@@ -1,0 +1,1 @@
+Olá, me chamo Lucas, tenho 24 anos e curso analise e desenvolvimento de sistemas. Trabalho com HTML5 e CSS, e estou aprendendo Javascript. Pretendo me dedicar a aprender mais sobre Backend e banco de dados.
